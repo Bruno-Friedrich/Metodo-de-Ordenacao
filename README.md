@@ -30,7 +30,6 @@ O programa utiliza a biblioteca padrão da linguagem C e as seguintes biblioteca
 6. O programa ordenará a sequência e retornará o n-ésimo menor número.
 7. O tempo gasto na ordenação será exibido no final.
 
-
 - Certifique-se de que as bibliotecas necessárias estejam disponíveis no seu ambiente de desenvolvimento.
 - O programa foi projetado para funcionar em sistemas compatíveis com a linguagem C, como sistemas Unix ou Windows.
 - Para obter informações sobre a complexidade do algoritmo "quicksort" utilizado, consulte fontes acadêmicas sobre o assunto.
